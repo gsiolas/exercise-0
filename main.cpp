@@ -1,5 +1,5 @@
 #include <iostream>
 
 int main() {
-  std::cout << "Good Morning World!\n";   
+  std::cout << "Hello World!\n";   
 }
